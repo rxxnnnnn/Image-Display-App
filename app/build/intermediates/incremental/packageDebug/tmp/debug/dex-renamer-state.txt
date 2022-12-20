@@ -1,0 +1,4 @@
+#Mon Jan 18 16:26:59 CST 2021
+base.0=/Users/ruoxuanwang/Desktop/3A/CS349/assignments/a4/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

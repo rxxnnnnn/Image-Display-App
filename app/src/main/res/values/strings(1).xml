@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fotag</string>
+    <string name="load">load</string>
+    <string name="loadimages">loadimages</string>
+    <string name="clear">clear</string>
+    <string name="rating">rating</string>
+    <string name="fotag">Fotag</string>
+    <string name="view_nall">View all</string>
+    <string name="YN">YN</string>
+</resources>
